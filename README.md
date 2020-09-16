@@ -5,6 +5,12 @@
 *NeuroStartUp* — динамически развивающийся стартап, специализирующийся на поиске с использованием новейших технологий искусственного интеллекта.
 
 ## Начало работы:
-1. Зарегистрировать аккаунт **GitHub** и создать Repository (**GitHub Repository**).
-2. Установить **GitHub Desktop**, интуитивный инструмент управления **Local Repository** (Репозиторий локальных данных).
-3. Конфигурировать для синхронизации данных с **GitHub Desktop** в **Repository server**.
+Для работы нам потребуется GIT, который можно скачать по ссылкам ниже:
+* **Windows**: https://git-scm.com/download/win
+* **Mac**: https://git-scm.com/download/mac
+* **Ubuntu**: `apt-get install git`
+* **Fedora**: `dnf install git`
+* **Другие версии Linux**: https://git-scm.com/download/linux 
+
+Также для написания кода рекомендуем использовать редактор кода **VS Code** – https://code.visualstudio.com/download
+
